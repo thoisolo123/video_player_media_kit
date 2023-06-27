@@ -12,7 +12,6 @@ dependencies:
     sdk: flutter
   media_kit: ^0.0.10
   # For video rendering.
-  media_kit_video: ^0.0.10
   # media_kit:
   #   git:
   #     url: https://github.com/alexmercerind/media_kit
